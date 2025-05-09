@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+.venv/
+
+# 环境变量
+.env
+
+# 日志文件
+*.log
+
+# 报告文件
+report.json
+report.md
